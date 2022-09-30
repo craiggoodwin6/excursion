@@ -30,5 +30,11 @@ h2 {
 .main-text {
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-size: 21px;
-      color: grey;
+      color: gray;
+}
+
+.copyright {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: right;
+  color: gray;
 }
